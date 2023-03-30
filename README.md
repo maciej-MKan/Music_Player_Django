@@ -34,7 +34,7 @@ Go to your browser and enter the address. \
 
 Login to the admin page, and add some songs to play them.
 
-<img alt="demo_admin" src="./images/admin_home.PNG" width="465"/>
+<img alt="demo_admin" src="./images/admin_home.PNG" width="480"/>
 
 Now you can go to main page ```http://localhost:8000``` and play the music.
 
